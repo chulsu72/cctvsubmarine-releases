@@ -8,7 +8,7 @@ Download the latest version from the Releases page.
 
 ## Official Website
 
-https://chulsu72.github.io/cctvsubmarine-web/
+https://chulsu72.github.io/cctvsubmarine-web
 
 ## Source Code
 
